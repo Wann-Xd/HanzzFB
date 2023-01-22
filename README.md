@@ -13,7 +13,7 @@ $ - `git clone https://github.com/HanaCrackId-Id/HanzzFB`
 
 $ - `ls ( L kecil )`
 
-$ - `cd  HanzzFB`
+$ - `cd HanzzFB`
 
 $ - `git pull`
 
